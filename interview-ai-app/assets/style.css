@@ -1,0 +1,44 @@
+/* Center main content and add max width for better readability */
+.main .block-container {
+    max-width: 900px;
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+}
+
+/* Card-like sections with shadow and rounding */
+.stApp > div > section > div.block-container > div {
+    background-color: var(--background-color);
+    border-radius: 12px;
+    padding: 2rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    margin-bottom: 2rem;
+}
+
+/* Style upload button and file uploader */
+.css-1y0t9ft button {
+    background-color: #0066cc !important;
+    color: white !important;
+    border-radius: 8px !important;
+}
+
+/* Bigger, nicer primary buttons */
+button[kind="primary"] {
+    background-color: #0066cc;
+    color: white;
+    border-radius: 8px;
+    padding: 0.5rem 2rem;
+    font-size: 1.1rem;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+
+/* Success/error messages */
+.stSuccess, .stError {
+    border-radius: 8px;
+    padding: 1rem;
+}
+
+/* Question output styling */
+.question-list {
+    font-size: 1.1rem;
+    line-height: 1.8;
+}
