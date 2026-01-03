@@ -17,7 +17,7 @@ An intelligent Streamlit app that generates tailored interview questions from up
 
 **Tech Stack:** Streamlit • LangChain • PyPDF • Sentence Transformers • FAISS • OpenAI/Anthropic/Local LLM
 
-→ [Go to project folder](./ai-interview-pro/)
+
 
 *(More projects coming soon...)*
 
