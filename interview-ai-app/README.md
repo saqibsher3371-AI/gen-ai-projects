@@ -6,7 +6,7 @@
 **Generate tailored behavioral and technical interview questions from any PDF**  
 Perfect for preparing interviews using resumes, job descriptions, or study materials.
 
-![Demo Preview](https://via.placeholder.com/800x400?text=AI+Interview+Pro+Demo+Screenshot)  
+![Demo Preview](https://drive.google.com/file/d/19YMSqLrjfJ9KcIAQ2D95w0TiBYxB8SJW/view?usp=drive_link)  
 *(Replace the link above with an actual screenshot later!)*
 
 ## Features
